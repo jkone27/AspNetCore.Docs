@@ -112,3 +112,8 @@ Refreshes the local version of a file that was downloaded using the latest conte
 |  Argument  | Description | Example |
 | ------------|-------------|---------|
 | source-URL | The URL to refresh the reference from. | dotnet openapi refresh `https://contoso.com/openapi.json` |
+
+### Useful Links
+
+* [Using Options blog post by stevetalkscode.co.uk](https://stevetalkscode.co.uk/openapireference-commands)
+* [NSwag C# Generator Options](https://gist.github.com/stevetalkscode/69719465d8271f1e9fa412626fdadfcd)
